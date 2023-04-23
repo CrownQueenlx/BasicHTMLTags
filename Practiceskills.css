@@ -1,0 +1,105 @@
+.wrapper {
+    margin: 10px;
+  
+    .dorsal {
+    z-index:-6;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 2000% 500% 20% 0;
+    border: solid 1px #1c1595;
+    background: #1c1595;
+    position: relative;
+    top:-25rem;
+    left:25rem;
+      transform: rotate(14deg);
+    }
+    .body {
+          z-index:0;
+          position: absolute;
+          border-radius: 100% 100% 10% 50%;
+      width: 28rem;
+      height: 11rem;
+      border: solid 1px #1c1595;
+      margin: 20rem;
+      left: ;
+      transform: rotate(20deg);
+      background: linear-gradient(51deg, rgba(28,21,149,1) 0%, rgba(37,29,167,1) 41%, rgba(82,72,255,1) 64%, rgba(65,56,226,1) 74%, rgba(45,37,191,1) 100%);
+  }
+  .underbody {
+    z-index:1;
+          border-radius: 100% 100% 100% 100%;
+          width: 22.8rem;
+          height: 11rem;
+          border: solid 1px #ffffff;
+          left: 13rem;
+          top: 27rem;
+          transform: rotate(160deg);
+          position: absolute;
+          background: #ffffff;
+          
+   }
+  .underbodyb {
+    z-index:-5;
+          border-radius: 100% 100% 100% 100%;
+          width: 22.8rem;
+          height: 11rem;
+          border: solid 1px #ffffff;
+          left: -10rem;
+          top: -8.5rem;
+          transform: rotate(260deg);
+          position: relative;
+          background: #ffffff;
+          
+    }}
+  .bottlenose {
+    z-index:-3;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 300% 0 0 100%;
+    border: solid 1px #1c1595;
+    background: #1c1595;
+    position: relative;
+    transform: rotate(337deg);
+    top:23rem;
+    left:15rem;
+  }
+    
+  }
+  
+  .fluke {
+    width: 8rem;
+    height: 4rem;
+    border-radius: 0 50% 50% 0;
+    border: solid 1px #2d25bf;
+    background: #2d25bf;
+    
+  }
+  .left{
+    top:-2.8rem;
+    left:0rem;
+    transform: rotate(10deg);
+    z-index:2;
+    position: relative;
+  }
+  
+  .right{
+    top:1rem;
+    left:5rem;
+    transform: rotate(70deg);
+    z-index:3;
+    position: relative;
+  }
+  
+  .eye {
+    height: 1rem;
+      width: 1rem;
+    z-index:1;
+      background: #ffffff;
+      border-radius: 100% 30% 100% 30%;
+      border: solid 2px #000000;
+    transform: rotate(-15deg);
+    top:30rem;
+    left:-6rem;
+    position: relative;
+    }
+  }
