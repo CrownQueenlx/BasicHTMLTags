@@ -103,3 +103,21 @@
     position: relative;
     }
   }
+  .body {
+        z-index:0;
+        position: absolute;
+        border-radius: 250% 100% 100% 100%;
+    width: 28rem;
+    height: 11rem;
+    border: ;
+    margin: 20rem;
+    left: ;
+    transform: rotate(20deg);
+    background:
+
+    .fins
+    linear-gradient(10deg, rgba(130,123,255,1) 21%, rgba(82,72,255,1) 43%, rgba(61,52,218,1) 56%, rgba(45,37,191,1) 88%);
+
+    pupil: colors
+background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 9%, rgba(0,0,0,1) 53%, rgba(62,11,11,1) 57%, rgba(0,0,0,1) 60%, rgba(0,0,0,1) 66%, rgba(62,11,11,1) 69%, rgba(0,0,0,1) 73%, rgba(0,0,0,1) 96%, rgba(14,0,255,1) 100%);
